@@ -1,16 +1,16 @@
-## Hi there 👋
+Harshita Lakhchaura:
+👋 Hi, I’m Harshita Lakhchaura
+👀 I’m interested in Web Development, Competitive Programming & DSA
+🌱 I’m a MERN Developer
+🤝 I’m looking to collaborate on MERN projects
+📫 How to reach me https://www.linkedin.com/in/harshita-lakhchaura OR harshitalakhchaura@gmail.com
+💬 Ask me about CPP, Front-end and Content
+⚡ Fun fact: My life has more bugs than my code
 
-<!--
-**rahulbhardwajdelhi/rahulbhardwajdelhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C++ CSS3 Java HTML5 JavaScript TypeScript Netlify Vercel Bootstrap Chart.js Express.js MUI NodeJS Next JS React Socket.io TailwindCSS React Router MongoDB MySQL Postman Notion Heroku Chakra Yarn NPM SASS C Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ Random Dev Quote
